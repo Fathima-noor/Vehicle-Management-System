@@ -190,12 +190,14 @@ Use Postman to test vehicle CRUD operations, booking creation, date-range filter
 
 ## Project Links
 
-- **GitHub Repository:** https://github.com/Fathima-noor/Vehicle-Management-System
+GitHub Repository: https://github.com/Fathima-noor/Vehicle-Management-System
   
 Live API: https://vehicle-management-system-3sk9.onrender.com/api/
 
 Vehicles API: https://vehicle-management-system-3sk9.onrender.com/api/vehicles/
 
 Bookings API: https://vehicle-management-system-3sk9.onrender.com/api/bookings/
+
+Demo Link : https://drive.google.com/drive/folders/11BwSJebAYhlNXt9rIE2PyvWiHzllhYSb?usp=sharing
 
 
